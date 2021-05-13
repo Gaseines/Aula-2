@@ -1,0 +1,47 @@
+
+body{
+    background-image: url(https://media.istockphoto.com/photos/stone-wall-texture-facing-stone-picture-id936645618);
+}
+div.carta{
+    border: 3px solid #000;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 5%;
+    height: 750px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    background-color: rgb(253, 249, 249);
+    font-size: 1.1em;
+}
+
+p#titulo{
+    font-weight: 600;
+    font-size: 45px;
+    margin-top: 1%;}
+.Saudação{
+    float: left;
+    margin-top: 5%;
+    margin-left: 5%;}
+.texto{
+    width: 80%;
+    margin-top: 18%;
+    margin-left: 10%;
+    text-indent: 10px;}
+.outracarta{
+    margin-top: 25%;text-align: right;}
+a{
+    text-decoration: double 1px;
+    color: rgb(255, 6, 6);
+    padding: 1%;}
+
+a:hover{
+    background: rgb(235, 37, 37);
+    color: rgb(0, 0, 0);
+    border-radius: 15px;}
+
+.assinatura{
+    text-align: left;
+    float: left;
+    margin-left: 0;
+    margin-top: 0%;}
+    
